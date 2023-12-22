@@ -26,3 +26,5 @@ To see the commit history and log,
 To go to a specific commit,
 
 "git commit <commit -hash>"
+
+It is silly change
